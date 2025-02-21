@@ -1,0 +1,6 @@
+# Ignore trained models and large libraries
+
+*.pt
+*.onnx
+*.h5
+*.tar
