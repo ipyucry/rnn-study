@@ -1,4 +1,4 @@
-# **Small NLP Tasks: Last Chance for RNNs?**  
+# **RNNs vs. Transformers: Efficiency and Performance in Small-Scale NLP**  
 
 This repository contains the code and datasets used for the research project comparing **BiGRU** and **DistilBERT** on sentiment analysis tasks using the **IMDb** and **Sentiment140** datasets. The study evaluates the performance, efficiency, and practical feasibility of RNNs and Transformers under computational constraints.  
 
